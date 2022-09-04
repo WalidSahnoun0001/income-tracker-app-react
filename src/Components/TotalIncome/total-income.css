@@ -1,0 +1,15 @@
+.total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 60%;
+    margin: 0 auto;
+    background-color: teal;
+    color: #fff;
+    padding: 10px 20px;
+}
+.total div {
+    background-color: tomato;
+    padding: 5px 10px;
+}

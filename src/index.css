@@ -1,13 +1,28 @@
-body {
+* {
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.add-income {
+  margin: 50px 0;
+}
+.add-income input {
+  width: 250px;
+  border: none;
+  background-color: #eee;
+  padding: 10px 15px;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+.add-income input:focus {
+  outline: 2px solid tomato;
+}
+.add-income button {
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+  background-color: tomato;
+  color: #fff;
+  cursor: pointer;
 }

@@ -1,0 +1,37 @@
+.income-list {
+    text-align: center;
+    background-color: #eee;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.income-list ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.income-list ul:not(:last-child) {
+    border-bottom: 2px solid tomato;
+}
+.income-list ul li {
+    margin: 0 20px;
+    width: 120px;
+}
+.income-list ul li span {
+    background-color: tomato;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.nothing {
+    background-color: #eee;
+    width: 60%;
+    margin: 0 auto;
+    color: tomato;
+    text-align: center;
+    padding: 20px 0;
+}
