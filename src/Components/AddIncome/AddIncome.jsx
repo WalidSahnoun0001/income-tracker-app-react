@@ -29,7 +29,7 @@ function AddIncome({list, setList}) {
         <input type="text" placeholder='Full Name...' ref={fullName}/>
         <input type="number" placeholder='Salary' ref={salary} />
         <input type="date" ref={date} />
-        <button onClick={addOne}>Add</button>
+          <button onClick={addOne}>Add</button>
     </section>
   )
 }
