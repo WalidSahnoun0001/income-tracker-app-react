@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/income-tracker-app-react/static/css/main.41f6d55b.css",
+    "main.css": "/income-tracker-app-react/static/css/main.1dc32cca.css",
     "main.js": "/income-tracker-app-react/static/js/main.2decafbc.js",
     "index.html": "/income-tracker-app-react/index.html",
-    "main.41f6d55b.css.map": "/income-tracker-app-react/static/css/main.41f6d55b.css.map",
+    "main.1dc32cca.css.map": "/income-tracker-app-react/static/css/main.1dc32cca.css.map",
     "main.2decafbc.js.map": "/income-tracker-app-react/static/js/main.2decafbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f6d55b.css",
+    "static/css/main.1dc32cca.css",
     "static/js/main.2decafbc.js"
   ]
 }
